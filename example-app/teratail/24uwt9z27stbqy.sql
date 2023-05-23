@@ -1,0 +1,1 @@
+select DATE_FORMAT(date,format);
